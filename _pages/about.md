@@ -10,6 +10,11 @@ redirect_from:
 
 Ahmed Farid is an electrical and computer engineer, worked as an application developer at IBM, member of the Space Systems Technology Lab at Cairo University, and electronics hobbyist. He has done/participated in projects in fields of electronics, micro-controllers, Android, Linux micro-computers, and enterprise software. He is an engineering graduate from MSA University in 2013, majoring in computer systems engineering.
 
-Currently studying Information Architecture at Waseda University, Graduate School of Information, Production &amp Systems. Interested in ubiquitous computing, cloud computing, and robotics.
+Currently studying Information Architecture at Waseda University, Graduate School of Information, Production & Systems. Interested in:
+- Ubiquitous computing / IoT
+- Cloud computing
+- Robotics
+- Autonomous Driving
+- Sound Source Localization
 
-Site underconstruction...
+(Site is still under construction)
