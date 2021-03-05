@@ -1,6 +1,6 @@
 ---
 title: "Command & Data Handling Subsystem for Cube-Satellites"
-excerpt: "<br/><img src='/images/cubesat.png' style='width: 500px; height: auto;'>"
+excerpt: "<br/><img src='/images/cubesat.png' style='width: 400px; height: auto;'>"
 collection: projects
 ---
 (Aug 2012 – Nov 2013)
