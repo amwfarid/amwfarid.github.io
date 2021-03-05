@@ -1,6 +1,6 @@
 ---
 title: "Path Planning for Navigating Pedestrian Environments"
-excerpt: "<br/><img src='/images/path_planner.png'>"
+excerpt: "<br/><img src='/images/path_planner.png' style='width: 500px; height: auto;'>"
 collection: projects
 ---
 (Nov 2016 – Sep 2019)

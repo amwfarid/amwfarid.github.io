@@ -1,6 +1,6 @@
 ---
 title: "Robot Audition for Mobile Robots"
-excerpt: "<br/><img src='/images/obelix_audition.png'>"
+excerpt: "<br/><img src='/images/obelix_audition.png' style='width: 500px; height: auto;'>"
 collection: projects
 ---
 (Oct 2019 – Jan 2020)
