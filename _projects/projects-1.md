@@ -10,3 +10,5 @@ collection: projects
 - Attended seminars and obtained deeper knowledge of research in intelligent mobility, robotics, and machine learning
 
 Done during my research Internship at the Autonomous Intelligent Systems (AIS) Lab, University of Freiburg
+
+<hr>

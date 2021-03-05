@@ -11,3 +11,5 @@ The aim was to help robots to plan ahead their trip in pedestrian settings simil
 - Computing path trajectories, especially considering:
     - Street crossings
     - Sidewalk paths
+
+<hr>
