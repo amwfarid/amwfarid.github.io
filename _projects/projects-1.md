@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Robot Audition for Mobile Robots"
+excerpt: "<br/><img src='/images/obelix_audition.png'>"
 collection: projects
 ---
+(Oct 2019 – Jan 2020)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Developed an 8-channel microphone array system for sound source localization (SSL) by an urban mobile robot
+- Recorded a dataset using a sound source and motion capturing for SSL by means of deep neural networks
+- Attended seminars and obtained deeper knowledge of research in intelligent mobility, robotics, and machine learning
+
+Done during my research Internship at the Autonomous Intelligent Systems (AIS) Lab, University of Freiburg
